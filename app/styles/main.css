@@ -140,7 +140,7 @@ body {
 /* HTML inspector button styles
 -------------------------------------------------- */
 .js-html-inspector {
-  position: relative;
+  position: relative; margin: 2rem 0;
 }
 .js-html-inspector .js-btn-inspector {
   display: none;

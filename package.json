@@ -1,5 +1,5 @@
 {
-  "name": "bootstrap-tldr",
+  "name": "bootstrap-4-tldr",
   "version": "0.1.0",
   "devDependencies": {
     "grunt": "^0.4.5",
